@@ -29,6 +29,7 @@ background-repeat: no-repeat;
     text-indent: 0;
     cursor: pointer;
     border: none;
+    transition: all .2s ease-in-out;
 }
 .carousel-indicators .active {
     width: 48px;
